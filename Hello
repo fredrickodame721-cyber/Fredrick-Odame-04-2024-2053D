@@ -1,6 +1,0 @@
-����A
-java/lang/Object<init>()V                
-java/lang/SystemoutLjava/io/PrintStream;Hello World
-java/io/PrintStreamprintln(Ljava/lang/String;)VHelloCodeLineNumberTablemain([Ljava/lang/String;)V
-SourceFile
-Hello.java!*��        %        � ��
